@@ -5,8 +5,8 @@ logging.basicConfig(level=logging.INFO,
                     filename="log", format="%(asctime)s %(levelname)s %(message)s")
 
 while True:
-  try:
-    n = int(input('Введите max число:  '))
+    try:
+        n = int(input('Введите max число:  '))
         logging.info('n = {}'.format(n))
         assert n > 1
         logging.info('suitable')
@@ -30,7 +30,7 @@ while True:
         print('Ошибка ввода, попробуйте ещё раз')
         logging.exception('incorrect input')
 hidden_num = random.randint(1, n)
-logging.info('hidden_num = {}'.format(hidden_num))     
+logging.info('hidden_num = {}'.format(hidden_num))
 while k > 0:
     print('(количество попыток - {})'.format(k))
     try:
