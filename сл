@@ -1,0 +1,23 @@
+100 INFO n = 7
+102 INFO suitable
+745 INFO k = 3
+745 INFO hidden_num = 4
+298 INFO input num = 5
+298 INFO suitable
+298 INFO the number isn't guessed
+381 INFO input num = 4
+381 INFO suitable
+381 INFO the number is guessed
+987 INFO n = 10
+987 INFO suitable
+20032 INFO k = 5
+032 INFO hidden_num = 7
+192 INFO input num = 3
+192 INFO suitable
+193 INFO the number isn't guessed
+514 INFO input num = 5
+514 INFO suitable
+515 INFO the number isn't guessed
+406 INFO input num = 7
+406 INFO suitable
+406 INFO the number is guessed
