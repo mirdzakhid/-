@@ -6,7 +6,7 @@
 После каждой неудачной попытки программа сообщает меньше или больше загаданное число.
 # Среда разработки программы
 Программа запускается в любой IDE для PythonСреда разработки: Python
-Необходимо открыть файл: Лаб.работа №9.py
+Необходимо открыть файл: Лаб.работа №10.py
 После запуска следовать инструкциям программы
 # Ввод
 Натуральное число N;
@@ -17,15 +17,13 @@
 
 
 Тест 1
-![image](https://github.com/mirdzakhid/-/assets/146477755/6e5e85a2-0855-4f6d-8baf-b9ce6dd98906)
+![image](https://github.com/mirdzakhid/-/assets/146477755/e285fae9-dcc4-41c6-a7b3-20838cb1de08)
+
 
 ___
 Тест 2
 ___
 
-![image](https://github.com/mirdzakhid/-/assets/146477755/d8ca1298-61eb-4a52-90d8-ff44db9c56f0)
+![image](https://github.com/mirdzakhid/-/assets/146477755/7c06d7eb-ce70-406c-90c0-adb4a81f2aac)
 
-Тест 3
 
-___
-![image](https://github.com/mirdzakhid/-/assets/146477755/3ece76aa-694c-47a0-a2aa-413887db0ab1)
